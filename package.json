@@ -1,0 +1,15 @@
+{
+  "name": "getStarted",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "latest",
+    "mongoose": "^4.7.2",
+    "mongoose-auto-increment": "^5.0.1",
+    "multer": "^1.2.1"
+  }
+}
